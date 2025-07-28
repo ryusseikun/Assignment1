@@ -8,7 +8,9 @@ Performs addition, subtraction, multiplication, and division
 Displays the results
 
 ✅ Task 2: Greeting by Full Name
+
 This program:
+
 Takes the first and last name as input
 Greets the user with their full name
 
